@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZhengJing</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_bludis">未连接</string>
+    <string name="title_bluen">已连接</string>
+    <string name="title_bleing">连接中</string>
+    <string name="title_cure">您的颈椎已达到</string>
+    <string name="title_startcure">赶紧开启理疗</string>
+    <string name="mainpage">主页</string>
+    <string name="error_bluetooth_not_supported">您的手机不支持蓝牙功能</string>
+    <string name="ble_not_supported">您的手机不支持蓝牙功能</string>
+    <string name="title_activity_health">HealthActivity</string>
+    <string name="title_test">先来做个颈椎的小测试吧</string>
+    <string name="action_settings">Settings</string>
+    <!--调查-->
+    <string name="ques1">1、抬头看天花板时，脖子后面出现疼痛，僵硬症状</string>
+    <string name="ques2">2、颈部、肩部、后背僵硬、酸痛</string>
+    <string name="ques3">3、习惯性落枕</string>
+    <string name="ques4">4、上肢麻木、疼痛</string>
+    <string name="ques5">5、行走障碍</string>
+    <string name="ques6">6、写字开始变化</string>
+    <string name="ques7">7、难以使用筷子</string>
+    <string name="ques8">8、您的年龄</string>
+    <string name="ques9">9、您的性别</string>
+    <string name="ques10">10、你经常</string>
+
+    <!--选项-->
+    <string name="ques8_1">18-25岁</string>
+    <string name="ques8_2">25-35</string>
+    <string name="ques8_3">35-50</string>\
+    <string name="ques8_4">50z分钟以上</string>
+    <string name="ques10_1">长时间对着电脑</string>
+    <string name="ques10_3">头部频繁活动</string>
+    <string name="ques10_4">经常长时间坐着</string>
+    <string name="ques10_2">长期低头工作</string>
+    <string name="push">提交</string>
+</resources>
